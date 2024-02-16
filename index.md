@@ -8,6 +8,7 @@ title: Dr. Julia Haaf
 
 <span style="font-size:1.2em;">
 [Contact](#contact) |
+[Short CV](#CV) |
 [Publications](#publications) |
 [Talks and Workshops](#talks) |
 [Lab Meetings](#labmeetings) |
@@ -32,11 +33,13 @@ And this is Frank, my cat.
 
 ## <a name="CV"></a> Short CV
 
-03/2020 – 02/2024	Assistant Professor, Psychological Methods, University of Amsterdam
+03/2020 – 02/2024	Assistant Professor, Psychological Methods, University of Amsterdam, the Netherlands
 
-12/2018 – 02/2020	Postdoctoral Scholar working with [EJ Wagenmakers](https://ejwagenmakers.com/), Psychological Methods, University of Amsterdam
+12/2018 – 02/2020	Postdoctoral Scholar working with [EJ Wagenmakers](https://ejwagenmakers.com/), Psychological Methods, University of Amsterdam, the Netherlands
 
-2018	PhD in Quantitative Psychology working with [Jeff Rouder](https://sites.uci.edu/specl/), Department of Psychological Sciences, University of Missouri, USA
+12/2018	PhD in Quantitative Psychology working with [Jeff Rouder](https://sites.uci.edu/specl/), Department of Psychological Sciences, University of Missouri, USA
+
+08/2014 MSc Psychology, research track, working with [Christoph Stahl](methexp.uni-koeln.de), Department of Psychology, Unicersity of Cologne, USA
 
 ## <a name="publications"></a> Publications
 
