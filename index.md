@@ -39,7 +39,7 @@ And this is Frank, my cat.
 
 12/2018	PhD in Quantitative Psychology working with [Jeff Rouder](https://sites.uci.edu/specl/), Department of Psychological Sciences, University of Missouri, USA
 
-08/2014 MSc Psychology, research track, working with [Christoph Stahl](methexp.uni-koeln.de), Department of Psychology, Unicersity of Cologne, USA
+08/2014 MSc Psychology, research track, working with [Christoph Stahl](https://methexp.uni-koeln.de/en/), Department of Psychology, Unicersity of Cologne, USA
 
 ## <a name="publications"></a> Publications
 
