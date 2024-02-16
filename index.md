@@ -59,11 +59,11 @@ I gave up on maintaining a separate list. Please check my [ORCID records](https:
 <span style="font-size:1.3em;"> Some Older Invited Talks and Workshops with Material </span>
 
 - **What’s your prior?** Psychological Forum, Department of Psychology, University of Amsterdam. Together with Angelika Stefan. [link to video and slides](https://psyres.uva.nl/events/psychology-forum/psychology-forum.html#Psychology-Forum-3-Whats-your-prior--Angelika-Stefan--Julia-Haaf)
-- *One World Cognitive Psychology Seminar* at the University of Mannheim in November, 2020. [Here is the link to the announcement](https://www.sowi.uni-mannheim.de/erdfelder/forschung/one-world-cps/)
+- *One World Cognitive Psychology Seminar* at the University of Mannheim in November, 2020. [Here is the link to the youtube video](https://www.youtube.com/watch?v=1_ENND3ew0E)
 - **Bayesian hierarchical modeling of cognitive processes: Benefits and pitfalls** (November, 2019). Invited talk at the Psychonomics pre-conference Current Trends in Mathematical Psychology, Montreal, Canada. [The abstract can be found here.](http://mathpsych.org/conferences/psychonomics2019/smp-ps19.pdf)
 - **`git` and `R Markdown`: Two Useful Tools for a Fully Reproducible Workflow** (October, 2019). Workshop invited by the Open Science Community Amsterdam. [The slides can be found here.](https://github.com/jstbcs/ReproducibleWorkflowWorkshop)
 - **Modeling Individual Differences in a Bayesian Framework** (September, 2019). Lecture at the 3rd Summer School on Statistical Methods for Linguistics and Psychology, University of Potsdam, Germany. You can find the talk [here](talks/smlp2019.pdf).
-- **Theory and practice of Bayesian inference using JASP** (June, 2019). Webinar together with Johnny van Doorn and Alexander Etz for the Society of Personality and Social Psychology's online learning platform. The video is available to all members.
+- **Theory and practice of Bayesian inference using JASP** (June, 2019). Webinar together with Johnny van Doorn and Alexander Etz for the Society of Personality and Social Psychology's online learning platform. [The video is available on youtube](https://www.youtube.com/watch?v=W0yTnqw5dtY).
 - **A Bayesian modeling approach for individual differences** (May, 2019). Talk at the Department of Brain and Cognition at KU Leuven. You can find the talk [here](talks/leuven19.pdf).
 
 </br>
