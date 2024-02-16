@@ -94,9 +94,6 @@ The [Amsterdam Mathematical Psychology Lab](https://www.ampl-psych.com/) organiz
 ## <a name="contact"></a> Contact
 
 Julia Haaf<br/>
-Psychological Methods<br/>
-Nieuwe Achtergracht 129-B | Room G0.34<br/>
-University of Amsterdam<br/>
 
 **New Email:** drjmhaaf [at] gmail [dot] com
 
