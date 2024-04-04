@@ -17,7 +17,7 @@ title: Dr. Julia Haaf
 
 ## <a name="about"></a> Welcome
 
-In March 2024 I start as a professor of psychological methods at the University of Potsdam. My research focuses on Bayesian hierarchical modeling of cognitive phenomena such as interference effects ([Does everyone Stroop?](pics/everyonestroops.png)), [recognition memory](https://psyarxiv.com/2dyn7/), and [subliminal priming](https://raw.githubusercontent.com/methexp/subliminal-EC/master/main.pdf). With these hierarchical models, I aim to better understand individual differences cognitive tasks. Specifically, how much do individuals differ, and how can we disentangle stable, qualitative individual differences and sample noise.
+I am a professor of psychological methods at the University of Potsdam. My research focuses on Bayesian hierarchical modeling of cognitive phenomena such as interference effects ([Does everyone Stroop?](pics/everyonestroops.png)), [recognition memory](https://psyarxiv.com/2dyn7/), and [subliminal priming](https://raw.githubusercontent.com/methexp/subliminal-EC/master/main.pdf). With these hierarchical models, I aim to better understand individual differences cognitive tasks. Specifically, how much do individuals differ, and how can we disentangle stable, qualitative individual differences and sample noise.
 
 Even though a large part of my research is developing statistical models, I am an experimental psychologist at heart, and I get excited about innovative, bold experimental designs. But I also believe that statistics are important to express and test psychological theory. And that Bayesian statistics are better suited to do so than conventional $t$-tests or ANOVA. My work particularly focuses on the usefulness of *ordinal constraints* in modeling. It seems that [ordinal constraints](https://psyarxiv.com/a4xu9/) are particularly well suited to capture theoretical predictions in psychology. 
 
@@ -29,9 +29,10 @@ And this is Frank, my cat.
 
 <br clear="all" />
 
-</br>
 
 ## <a name="CV"></a> Short CV
+
+03/2024 - current Professor of Psychological Methods, Statistics and Evaluation, University of Potsdam, Germany
 
 03/2020 – 02/2024	Assistant Professor, Psychological Methods, University of Amsterdam, the Netherlands
 
@@ -39,7 +40,13 @@ And this is Frank, my cat.
 
 12/2018	PhD in Quantitative Psychology working with [Jeff Rouder](https://sites.uci.edu/specl/), Department of Psychological Sciences, University of Missouri, USA
 
-08/2014 MSc Psychology, research track, working with [Christoph Stahl](https://methexp.uni-koeln.de/en/), Department of Psychology, Unicersity of Cologne, USA
+08/2014 MSc Psychology, research track, working with [Christoph Stahl](https://methexp.uni-koeln.de/en/), Department of Psychology, University of Cologne, Germany
+
+</br>
+
+**&#8673;** [up]( #about) 
+
+</br>
 
 ## <a name="publications"></a> Publications
 
@@ -55,7 +62,7 @@ I gave up on maintaining a separate list. Please check my [ORCID records](https:
 
 <span style="font-size:1.3em;"> Upcoming Talks and Workshops </span>
 
-- I will give a keynote at the Eighth Summer School on Statistical Methods for Linguistics and Psychology (9-13 September). The application period for the summer school is until April 1, 2024.
+- I will give a keynote at the Eighth Summer School on Statistical Methods for Linguistics and Psychology (9-13 September).
 
 <span style="font-size:1.3em;"> Some Older Invited Talks and Workshops with Material </span>
 
@@ -119,8 +126,7 @@ You can find me on
 
 Other links: 
 
-- [Official UVA profile](https://www.uva.nl/en/profile/h/a/j.m.haaf/j.m.haaf.html)
-- [Psychological Methods at the University of Amsterdam](https://psyres.uva.nl/content/research-groups/programme-group-psychological-methods/programme-group-psychological-methods.html?1572360244196) 
+- [Department of Psychology](https://www.uni-potsdam.de/en/department-psychologie/index), University of Potsdam
 - Former lab together with Dora Matzke, Andrew Heathcote, and Michael Nunez: [Amsterdam Mathematical Psychology Laboratory](https://www.ampl-psych.com/)
 - Former lab at the University of California, Irvine: [Structure in Perception and Cognition Lab](https://sites.uci.edu/specl/)
 - Former lab at the University of Cologne: [Research Methods and Experimental Psychology](http://methexp.uni-koeln.de/?lang=en)
